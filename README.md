@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Fahim Bhuiyan</h1>
-<h3 align="center">A passionate Backend developer from Bangladesh</h3>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Doctor'SPlus](https://github.com/md-fahim-bhuiyan/DoctorsPlus)
 
