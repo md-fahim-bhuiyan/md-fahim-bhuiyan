@@ -5,18 +5,14 @@
   <span id="job-title" class="txt-rotate" style="color: blue;">Software Engineer, Web Developer & Web Designer</span>
 </h3>
 
-# 💫 About Me:
+### 💫 About Me:
 
 
 🔭 I’m currently working on [Doctor'SPlus](https://github.com/md-fahim-bhuiyan/DoctorsPlus)
 
 🌱 I’m currently learning **Django**
 
-👯 I’m looking to collaborate on [GoAnywhere](https://github.com/md-fahim-bhuiyan/GoAnyWhere)
-
 👨‍💻 All of my projects are available at [Md. Fahim Bhuiyan](https://md-fahim-bhuiyan.github.io/md-fahim-bhuiyan-ringu.github.io/)
-
-💬 Ask me about **Python, Java & Django**
 
 📫 How to reach me **fahimbhuiyan05@gmail.com**
 
@@ -30,8 +26,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=md-fahim-bhuiyan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-fahim-bhuiyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=md-fahim-bhuiyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=fahimbhuiyan05)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
@@ -41,5 +35,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=md-fahim-bhuiyan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
