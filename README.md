@@ -28,7 +28,7 @@
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=fahimbhuiyan05)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=fahimbhuiyan05&theme=moltack&icon=smile&response=true)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=md-fahim-bhuiyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
