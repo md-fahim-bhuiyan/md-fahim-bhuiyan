@@ -5,7 +5,7 @@
   <span id="job-title" class="txt-rotate" style="color: blue;">Software Engineer, Web Developer & Web Designer</span>
 </h3>
 
-👨‍💻  [Md. Fahim Bhuiyan](https://md-fahim-bhuiyan.github.io/md-fahim-bhuiyan.github.io/)
+👨‍💻  [Md. Fahim Bhuiyan](https://cutt.ly/fahim-bhuiyan)
 
 📫 Reach me **fahimbhuiyan05@gmail.com**
 
