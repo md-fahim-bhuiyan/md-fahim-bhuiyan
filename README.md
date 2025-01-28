@@ -21,7 +21,7 @@
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <!--  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)  -->
-### 📊 GitHub Stats:
+<!--  ### 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=md-fahim-bhuiyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=md-fahim-bhuiyan&theme=dark&hide_border=false)
 
